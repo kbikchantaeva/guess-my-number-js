@@ -1,1 +1,1 @@
-# guess-my-number-js
+https://kbikchantaeva.github.io/guess-my-number-js/
